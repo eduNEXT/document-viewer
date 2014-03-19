@@ -1,0 +1,82 @@
+GS Subprime Mortgage Business
+Subprime Risk: Current Position as of 1112/07
+
+Mortgage Department
+SUBPRlME
+Securities (IG)
+Subs & Residuals
+Loans
+Single-Name Synthetic Risk (Net)
+TABX & Tranched Synthetic Risk (Net)
+Net
+
+Current Notional (Bn) Market Value (Bn)
+2.3
+1.2
+0.1
+0.1
+0.3
+0.3
+2.7
+1.6
+(3.1 )
+(0.9)
+
+2.3
+
+2.4
+
+ALT-A
+Securities (IG)
+Subs & Residuals
+Loans
+Synthetic Risk (net)
+Net
+
+4.3
+0.3
+0.1
+(1.7)
+3.0
+
+3.8
+0.2
+0.1
+(1.3)
+2.8
+
+SCRA TCH & DENT
+Loans
+
+0.9
+
+0.5
+
+2.1
+(1.2)
+(5.4)
+(3.5)
+
+0.3
+(0.4)
+(3.0)
+(3.4)
+
+(7.9)
+
+(6.4)
+
+CDOs / TRANCHE RISK
+Securities
+Single-Name Synthetic Risk (Net)
+Tranched Synthetic Risk (Net)
+Seasoned Super Senior Shorts
+Net
+
+3
+
+Confidential Treatment Requested by Goldman Sachs
+
+GS MBS-E-009713206
+
+

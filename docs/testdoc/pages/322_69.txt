@@ -1,0 +1,297 @@
+Mortgage VaR Change (01'07 vs. 04'061
+Daily Mortgage VaR increased from $13mm to $85mm between 11/24/06 and
+2/23107, largely driven by an increase in SPG Trading desk. The risk increase in SPG
+Trading desk was primarily driven by a combination of increased volatility in ABX
+market and the desk increasing their net short risk in RMBS subprime sector.
+Daily VaR ($mm)
+23-Feb 24-Nov
+85
+13
+
+Mortgages
+
+3
+3
+
+-
+
+3
+3
+
+7
+2
+
+Derivatives
+Residential Prime
+Residential Credit
+Non-Resi Origination
+SPG Trading
+CDO/CLO
+Acquisition Commitment
+European Mortgages
+CDO Warehouse
+
+Diff
+72
+
+3
+2
+7
+2
+7
+1
+2
+
+90
+13
+
+6
+1
+2
+
+-
+
+4
+
+83
+11
+(1)
+
+-
+
+As can be seen from the table below, the volatility of ABX index increased
+substantially over the quarter, for example, daily volatility of ABX "BBB-" index
+increased from 5 bps to 53 bps. During the same period, ABX "BBB-" spread widened
+from 300 bps to 1500 bps.
+Daily Volatility in bps
+23-Feb 24-Nov
+Diff
+
+53
+45
+
+BBB
+A
+AA
+AAA
+
+48
+41
+17
+1
+
+5
+4
+
+18
+1.7
+1.3
+
+BBB-
+
+0.3
+0.2
+
+1
+
+1
+
+Furthermore, SPG Trading desk started off the quarter with long ABX "BBB-" risk to
+the tune of $1.8mm/bp, hedged with "MAlA" rated ABX indices and single name
+CDS. Over the quarter, desk reduced its long ABX "BBB-" risk by $1.3mm/bp and
+increased their single name CDS hedges.
+2/23/2007
+
+Rating
+N\A
+AA
+
+A
+
+Dilrel'@n~
+
+11/24/2000
+
+Spread DVOl ($K/bp)
+Single
+Name
+CDS
+ABX
+Tote I
+(67)
+
+(11)
+
+(78)
+
+23
+
+108
+
+131
+
+(1,2M)
+
+(534)
+
+(1,817)
+
+Spread DVOl ($K/bp)
+Single
+Name CDS
+
+AeX
+
+(103)
+
+(816)
+
+(919 )
+
+(43)
+
+6
+
+(37)
+
+A
+
+(624)
+
+(455)
+
+(1,079)
+
+Rating
+ANI
+AA
+
+Tote I
+
+BBB
+
+(503)
+
+(332)
+
+(835)
+
+BBB
+
+(236)
+
+161
+
+(74)
+
+1l6866
+
+(686)
+
+479
+
+(207)
+
+llllll·
+
+(704)
+
+1,785
+
+1,081
+
+Totel
+
+(2,532)
+
+(290)
+
+(2,822)
+
+(10)
+
+(16)
+
+116
+Tote I
+
+(19)
+
+(1,730)
+
+(19)
+682
+
+(1,048)
+
+Rating
+
+Spread DVOl ($Kjbp)
+Single
+Name
+CDS
+ABX
+Tote I
+
+ANI
+
+36
+
+80S
+
+AA
+
+66
+
+102
+
+168
+
+A
+
+(659)
+
+(79)
+
+(738)
+
+BBB
+
+(267)
+
+(493)
+
+(781)
+
+19
+
+(1,307)
+
+3
+
+.
+
+(1,288)
+
+(802)
+
+(972)
+
+(1,776)
+
+llllll·
+
+116
+Total
+
+841
+
+J
+
+posltl ve numbe, means long cred It
+
+Confidential Treatment Requested by Goldman Sachs
+
+GS MBS-E-010037310
+
+

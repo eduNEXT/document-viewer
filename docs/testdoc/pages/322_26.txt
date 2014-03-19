@@ -1,0 +1,93 @@
+Sparks, Daniel l
+Sunday, December 17, 200610:52 AM
+Montag, Tom; Ruzika, Richard; Viniar, David; McMahon, Bill
+Cohn, Gary (EO 85830)
+Subprime update
+
+From:
+Sent:
+To:
+
+Cc,
+Subject:
+
+Focuses:
+1. Square position in 88B-.
+We made progress last week, but still more work to do. First focus on 2006 B88- and then on reducing index vs single
+names basis. Below shows risk reduction trades Thursday and Friday (we also did $650mm notional of single name risk
+reduction Wednesday). DV01 is between 3 and 3.2, so to get the 200S 888- DVOl to flat we need layoff about another
+$1 billion notional.
+BBB
+
+2005
+2006
+BBB2005
+2006
+
+Notional
+Index
+- 50mm
+-lOOmm
+
+-
+
+Notional
+Single-Names
+
+-
+
+80mm
+
+60mm
+
+-265mm
+
+-315rrun
+
+Approx.
+Net OVOI (+ - Long Risk)
+-188
+-217
++500
++275
+
+Biggest concerns are (1) liquidity in last 2 weeks of Dec. and ability/motivation for certain hedge funds to shove market
+either way with respect to year-end perlormance measures, and (2) noise in originator sector· more will go down (when
+not if). Trading desk is looking 10 buy puts on a few originators.
+2. Recognition and aggressiveness in residential whole loan and counter-party business.
+Team making and receiving lull margin calls (except for MlN partial), team aggressively pursuing EPD claims and
+seltlemenls, and team understanding not 10 rush into opportunities that are coming (e.g., we did not buy $SOOmm scratch
+and dent package that had Friday first round bids because there is going to be a lot more coming).
+3. COO warehouse marking.
+Worked wilh controllers and slrals Friday to implement more frequent marks 10 COO warehouse. Methodology
+conceptually agreed to, need some more time to implement. We took a $5mm reserve on Friday in P&l. Details need to
+be worked out, but view is to mark to COO execution deal by deal, and only adjust down if a deal is under-water (no deal
+marks up). Carry will also begin to recognized. Note: deals would be marked, not postions assuming liquidation (which
+would be more volatile but not reflect actual business actvily).
+4. Business flows will continue· buy and securitize loans, ramp and execute COOs. With exira focus on cleaning out left
+over positions.
+5. Platform opportunities are coming.
+
+From:
+
+Sent:
+To:
+Subject:
+
+Spaoo, Daniel L
+Thursday, [)e(ember 14, 200611:04 PM
+Montag, Tomi Ruzlka, RIchard
+Sobprime risk meeting with Viniar/McMahon Summary
+
+Mortgage team - Gasvoda, Rosenblum, Swenson and me.
+Viniar, 8ill, Brian lee (controllers) and some risk guys.
+Ruzika on phone.
+Reviewed in detail 6 areas of risk related to subprime:
+
+ABXlCDS
+
+Confidential Treatment Requested by Goldman Sachs
+
+GS MBS-E-009726143
+
+

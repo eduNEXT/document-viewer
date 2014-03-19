@@ -1,0 +1,33 @@
+That volatility continued into the summer of 2007, as Bill McMahon, then COO & Head of Risk
+Management for the Securities Division, communicated to Gary Cohn and David Viniar in an
+email on August 15, 2007:
+The volatilities and correlations among our assets are really driving the swings in
+var right now. Robert Berry [the firm‘s Chief Market Risk Officer] sent out a
+note last night indicating that the sensitivity of our var models to correlations
+suggests that the var can swing between 140 and 160 without any changes in the
+complexion of our trading books – essentially, it is noise. The only solution is to
+reduce the size of the books, which is what we are working on with mortgages
+and credit trading.29
+VI.
+
+The Effect of Goldman Sachs‘ Risk Management on Our Profits and Losses During the
+Financial Crisis
+
+Given the deteriorating performance of the mortgage market in 2007 and 2008 and the
+corresponding decline in the value of mortgage-related products, the best and most relevant proof
+of whether Goldman Sachs had a large net short position is our actual revenues in mortgages.
+The relative consistency of revenues underlines the firm‘s on-going market making activities and
+prudent risk management– not a massive proprietary, directional view of where the market might
+have been headed.
+The firm‘s mortgage-related positions had a relatively small effect on our net revenues or profits
+for fiscal year 2007. The firm had net revenues of less than $500 million from our residential
+mortgage-related products business in 2007. During fiscal year 2008, the firm had net losses of
+approximately $1.7 billion related to our residential mortgage-related products business.
+
+29
+
+GS MBS-E-009778573 (August 15, 2007 e-mail from Bill McMahon to Gary Cohn and David Viniar)
+
+11
+
+

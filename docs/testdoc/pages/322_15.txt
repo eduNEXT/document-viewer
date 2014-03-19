@@ -1,0 +1,58 @@
+Sources: Inside Mortgage Finance and Asset Backed AlertGS
+1
+For 2007, Inside Mortgage Finance published market share data for only the top 10 underwriters The 10th largest underwriter in 2007 was Bank
+of America with a 4 2% market share As Goldman Sachs did not appear in the top 10, we can deduce that it had a market share of less than
+4 2%
+
+V.
+
+Risk Management
+A. Getting ―Closer to Home‖
+
+The foundation of Goldman Sachs‘ approach to risk management is disciplined mark-to-market
+accounting. This involves the daily practice of valuing the firm‘s assets and liabilities to current
+market levels – that is, the value one might expect to find on the open market. Without a
+transparent and realistic insight into our own financial position, Goldman Sachs would not be
+able properly to assess or manage our risk. It was mark-to-market accounting that spurred
+Goldman Sachs to reduce the firm‘s risk in the residential mortgage market near the end of 2006.
+As a result of this firmwide discipline, Dan Sparks, then head of the mortgage department, was
+able to tell senior members of the firm in an email on December 5, 2006, that the ―Subprime
+market [was] getting hit hard… At this point we are down $20mm today.‖2
+For senior management, the emergence of a pattern of losses, even relatively modest losses, in a
+business of the firm will typically raise a red flag. Concerned by increasing volatility and
+repeated daily losses in the firm‘s mortgage business P&L, David Viniar, the firm‘s Chief
+Financial Officer, convened a meeting of the firm‘s senior mortgage traders and risk managers
+on December 14, 2006. At that time, Goldman Sachs had a net long exposure to subprime,
+prime and other residential mortgage risk. It was agreed during the meeting that the firm should
+reduce its overall exposure to the subprime mortgage market – getting, in effect, ―closer to
+home.‖ To be clear, Mr. Viniar did not instruct the mortgage business to take a particular
+directional view on the subprime mortgage market. Nor did Mr. Viniar prohibit the mortgage
+business from taking short positions or becoming net short. Instead, Mr. Viniar‘s guidance to the
+mortgage department was to not take a significant directional position -- short or long -- in any
+direction and to do its best to reduce the size of the department‘s overall positions in the
+subprime market.
+In a December 15, e-mail to Tom Montag, then co-head of the Securities Division, Mr. Viniar
+recounted the meeting of the day before, stating, ―Dan and team did a very good job going
+through the risks. On ABX3, the position is reasonably sensible but is just too big. Might have
+to spend a little to size it appropriately. On everything else my basic message was let‘s be
+aggressive distributing things [i.e., reducing risk] because there will be very good opportunities
+as the markets goes into what is likely to be even greater distress and we want to be in position to
+take advantage of them [i.e., opportunities].‖4 In an email two days later, Dan Sparks updated
+senior management: ―We made progress last week, but still more work to do…Below shows risk
+reduction trade[s].‖5
+
+2
+
+3
+4
+5
+
+GS MBS-E-010930468 (December 5, 2006 e-mail from Dan Sparks to Tom Montag, et a.l) (All ―GS MBS-E references are to
+materials provided to the Permanent Subcommittee on Investigations.)
+ABX is an index that tracks the performance of subprime residential mortgage bonds.
+GS MBS-E-009726498 (December 15, 2006 e-mail from David Viniar to Tom Montag)
+GS MBS-E-009726143 (December 17, 2006 e-mail from Dan Sparks to Tom Montag, et al)
+
+5
+
+

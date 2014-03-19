@@ -1,0 +1,80 @@
+ASS Trading
+CMBS Trading
+1,100,000
+CMBS CDS
+Correlation Trading
+1,500,000
+CDS Spread Moves
+CDO/CLO
+ASS/MBS COO (1,000,000)
+GSI SF Credit Warehouse 20,000
+US CLO
+360,000
+EURO CLO
+3,350,000
+CRE COO
+Retained Principal Positions
+Syndicate
+ABS
+CMBS
+COO
+
+Hedges Manager's Account
+Advisory Fees
+Other
+
+RHBS
+Mortgage Derivative
+Agency Derivatives
+Whole Loan Derivs
+
+(250,000)
+
+MSR
+Residential Prime
+FHA/VA - Primary
+FHA/VA - Secondary
+Subs
+Prime Hybrid - Primary
+Prime Hybrid - Secondary
+Agency Hybrid
+250,000
+Prime Fixed - Primary
+Prime FiKed - Secondary
+Agency CMO - Primary
+Agency CMO - Secondary 100,000
+Residential
+Scratch and
+Subprime
+Alt-A
+2nd Liens
+Residuals Residuals Residuals Residuals Warehouse
+
+Credit
+Dent
+(500,000)
+spread tightening
+(2,900,000) spread tightening
+(275,000)
+spread tightening
+Scratch & Dent
+Subprime
+Alt-A
+2nd Liens
+
+Tax Residuals
+NERDS
+EUROPE
+Acquisition Finance
+Euro CMBS
+Global Special Situations
+AMSSG
+ESSG
+ASSG
+2
+
+Confidential Treatment Requested by Goldman Sachs
+
+GS MBS-E-010952384
+
+

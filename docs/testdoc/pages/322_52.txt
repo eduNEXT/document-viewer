@@ -1,0 +1,63 @@
+From:
+Sent:
+To;
+Subject:
+
+Berry, Robert
+Tuesday, August 21,20073:37 PM
+Viniar, David; Broderick, Craig
+Fw: Potential large subprime trade and impact on Firmwide VAR
+
+Fyi.
+----- Original Message
+From: Berry, Robert
+To: McMahon, 8ill
+Cc: Dinias, Michael
+Sent: Tue Aug 21 10:13:09 2007
+Subject: Re: Potential large subprime trade and impact on Firmwide VAR
+Do we have dry powder? This builds a basis risk.
+I like it a lot as a customer trade - i.e. we package our short with longs on an order
+basis and we really reduce risk.
+What is the overhang of aaa? What happens if they are downgraded? How much comes out, how
+cheap do they then get?
+
+----- Original Message
+From: McMahon, Bill
+To: Berry, Robert
+Cc: Dinias, Michael
+Sent: Tue Aug 21 09:35:14 2007
+Subject: FW: Potential large subprime trade and impact on Firmwicte VAR
+Any opinions?
+From:
+Birnbaum, Josh
+Sent: Tuesday, August 21, 2007 9:31 AM
+To:
+Montag, Tom; Mullen, Donald; Cohn, Gary (EO 85B30); Winkelried, Jon (EO
+85B30)j Viniar, David; McMahon, Bill; Sherwood, Michael Sj Salame, Pablo
+Cc:
+Sparks, Daniel Lj Swenson, Michael; Lehman, David A.j Birnbaum, Josh
+Subject:
+Potential large subprime trade and impact on Firmwide VAR
+- The mortgage department thinks there is currently an extraordinary opportunity for
+those with dry powder to add AAA subprime risk in either cash or synthetic form.
+- We would like to be opportunistic buyers of up to $10Bln subprime AAAs in either
+cash or synthetic (ABX) form and run that long against our $3.581n in mezzanine subprime
+shorts.
+- Mortgage dept VAR would be reduced by $75mrn and Firmwide VAR would be reduced by
+$25mm.
+- At current dollar prices, the implied losses at the AAA level are 2.5x higher than
+the implied losses at the BBB level where we have our shorts (the ratio is even cheaper
+for cash due to technicals).
+If ~ were priced consistent with BBB implied loss levels,
+they would be trading 5-10pts higher in synthetics and lO-15pts higher in cash.
+- On the supply side, we think we can source these assets from SIVs, SlY-lites, ABCP
+Conduits, Sec Lenders, total return accounts.
+- On the demand side, we plan to share this trade quietly with selected risk
+partners. We began doing so yesterday when we sold 1/3 of the AAAs purchased off the
+Solent list to Hayman Capital, and 100% of the AAAs from Cairn to MetWest and WAMCO.
+
+Confidential Treatment Requested by Goldman Sachs
+
+GS MBS-E-009721274
+
+

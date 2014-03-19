@@ -1,0 +1,56 @@
+From:
+Sent:
+To;
+
+Cc:
+Subject:
+
+Sparks, Daniel L
+Thursday, March 08,200712:50 AM
+Winkelried, Jon (EO 85B30); Montag, Tom; Viniar, David; Cohn, Gary (EO 85B30);
+Sherwood, Michael S; McMahon, Bill; Broderick, Craig
+Ruzika, Richard
+Mortgage risk
+
+Just spent tonight negotiating with Accredited - they plan to send us $21mm in the
+morning, we have new information on loans in the warehouse line that allows us to feel
+comfortable raining the loan mark by $lOmm, and we will buy $SOmm of A-I rated ABCP
+(Accredited vehicle) from accounts (we feel that the collateral is pretty good) that rolls
+Thursday which will prevent ABCP extension. Then all of our EPD claims in subprime would
+be resolved - we may have a small Alt A claims (probably under $1mm). If this happens, the
+outcome is good. New Century remains a problem on EPD.
+Aside from the counterparty risks, the large risks I worry about are listed below:
+(1) COO and Residential loan securitization stoppage - either via buyer strike or dramatic
+rating agency change.
+On the COO front, we have been locking people at various parts of the capital structure
+(with a primary focus on the super-seniors - top 50% of the deal), and rushing to get
+deals rated. We have liquidated a few deals and could liquidate a couple more, and we are
+not adding risk (we had slowed down our business dramatically in the past 4 months). Our
+deals break down into 2 $1BB COOs of A-COOs (most risky, but good progress), 2 $1BB AAdiversified deals (less downside, less progress), and 4 other various smaller deals. We
+have various risk sharing arrangements, but deal unwinds are very painful.
+For residential loans, we have not bought much lately and our largest pool to securitze is
+Alt A ($4.38B). There is also $1.3B8 subprime loans and $700mm seasoned seconds. This
+market is also very difficult to execute in.
+(2) Dramatic credit environment downturn.
+Scratch & dent loans ($900mm), residuals ($750mm), and less liquid bond positions - if the
+credit environment significantly worsens, these positions will be hurt by losses, further
+lack of liquidity and lower prices.
+(3) Covering our shorts. We have longs against them, but we are still net short.
+$4B8 single name subprime split evenly between A, BBB, BBB- and $1.38B of A-rated CDOs.
+ABX index - overall the department has significant shorts against loan books and the COO
+warehouse. The bulk of these shorts ($988) are on the AAA index, so the downside is
+limited as the index trades at 99.
+Our shorts in (3) above have provided significant protection so far, and should be helpful
+for (1) and (2) in very bad times. However, there is real risk that in medium moves we get
+hurt in all 3 areas.
+Therefore, we are trying to close everything down, but stay on the short side. But it
+takes time as liquidity is tough. And we will likely do some other things like buying puts
+on companies with exposures to mortgages.
+
+-----original Message----From: Winkelried, Jon (EO 85E30)
+
+Confidential Treatment Requested by Goldman Sachs
+
+GS MBS-E-009718900
+
+

@@ -1,0 +1,42 @@
+For much of 2007, Goldman Sachs and most other market participants, economists and policy
+makers believed that the credit crisis was contained to the subprime mortgage market. During
+this period, the firm continued market making and underwriting activities in residential
+mortgages, which resulted in an increase in prime and other residential mortgage exposure.
+Unfortunately, in 2008, it became clear that these other asset classes were deteriorating as well.
+For the fiscal year ending November 2008, although profitable overall, the deterioration of these
+asset classes was a meaningful contributor to the firm‘s overall net loss of approximately $1.7
+billion in residential mortgage-related products.
+E. Increases in Value at Risk (VaR)
+Throughout the course of our risk-reduction efforts starting in late 2006, the mortgage
+department experienced periodic spikes in VaR, or ―Value at Risk.‖ VaR is a risk metric that
+measures the potential loss in value of trading inventory due to adverse moves in the market over
+a defined period of time. The key inputs to VaR are the size and type of positions in the
+respective assets (both long and short) as well as the volatility of the underlying assets. Between
+November 24, 2006 and February 23, 2007, daily VaR in the mortgage department increased
+from $13 million to $85 million, predominantly from increases in volatility.26
+Increases in VaR were the result of dramatic fluctuations in the mortgage market (which had a
+corresponding effect on VaR), not an effort on the part of Goldman Sachs to take a large
+directional bet on the subprime market. In fact, because of the volatility of the markets, the
+increases in VaR occurred despite efforts by the firm to reduce our overall exposure to the
+mortgage market.
+In a February 14, 2007 e-mail, Dan Sparks wrote, ―Over var due to massive spike in subprime
+volatility and we are working with bruce on that. Over limit on cre loan scenario list but will
+correct next week with large securitization pricing. Over limit on cdo risk but that will adjust as
+moving positions to desks. Bad week in subprime.‖27
+A February 21, 2007 e-mail from Mr. Sparks to Jon Winkelried described the volatility in the
+subprime market:
+We are net short, but mostly in single name CDS and some tranched index vs the
+some [sic] index longs. We are working to cover more, but liquidity makes it
+tough. Volatility is causing our VAR numbers to grow dramatically.28
+
+26
+27
+28
+
+GS MBS-E-010037310 (Mortgage VaR Change (Q1‘07 vs. Q4‘06)
+GS MBS-E-002203268 (February 14, 2007 e-mail notes taken by Dan Sparks)
+GS MBS-E-010381094 (February 21, 2007 e-mail from Dan Sparks to Jon Winkelried)
+
+10
+
+

@@ -1,0 +1,43 @@
+III.
+
+Goldman Sachs‘ Participation in the Residential Mortgage Market
+
+Goldman Sachs‘ residential mortgage-related business consists of structuring, trading,
+underwriting and distributing mortgage- and asset-backed related products. These products
+include loans, securities and derivatives backed by residential real estate loans.
+The residential mortgage-backed security (RMBS) is one such product. Through an RMBS,
+pools of home loans are structured into a security, with the underlying mortgage loans serving as
+collateral and providing income to the investors in the security.
+A Collateralized Debt Obligation (CDO) pools various RMBS and other income-producing
+assets into different tranches with varying degrees of risk. The most senior tranches carry the
+least risk of default and, in turn, provide the lowest interest rate to the investor. In a ―synthetic‖
+CDO, two parties enter into a derivative transaction, which references particular assets. By the
+very nature of a synthetic CDO, one counterparty must be long the risk (i.e., hoping to benefit
+from an increase in the value of the referenced assets), and the other counterparty must be short
+the risk (i.e., hoping to benefit from a decrease in the value of the referenced assets).
+Goldman Sachs has not been a significant participant in the market for originating mortgages. In
+fact, the number of loans originated by Goldman Sachs, which acquired a small originator in
+March 2007, never exceeded one-tenth of one percent of total domestic residential mortgages.
+In structuring and underwriting RMBS, Goldman Sachs often purchased the underlying loans
+from banks and other lenders. In other cases, Goldman Sachs acted as an underwriter for
+securitizations of the loans of mortgage originators. In both situations, Goldman Sachs engaged
+in a due diligence process to examine (i) the counterparty, (ii) loan level credit, (iii) compliance
+and (iv) property valuation.
+In this context, the firm was acting as an underwriter of financial instruments, rather than a
+market maker. A market maker is primarily engaged in the business of assisting clients in
+executing their desired transactions. This business is client-driven, and serves an intermediary
+function. Goldman Sachs strives to provide a fair price to our clients.
+In contrast, an underwriter of financial instruments works with the issuer in connection with
+offering financial instruments to investors. In this context, federal securities laws effectively
+impose a ―gatekeeper‖ role on Goldman Sachs: as an underwriter, the firm is expected to assist
+the issuer in providing an offering document to investors that discloses all material information
+relevant to the offering.
+In connection with our underwriting of residential mortgage-related securities, Goldman Sachs
+had a process to examine the management, relevant policies and procedures, underwriting
+standards, creditworthiness and other aspects of each mortgage originator before the firm began
+purchasing loans for securitization. As a result of these reviews, we determined not to do
+business with dozens of originators and suspended our business relationships with many more.
+
+3
+
+

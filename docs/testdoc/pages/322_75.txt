@@ -1,0 +1,49 @@
+From:
+Sent:
+To;
+
+Cc:
+Subject:
+
+McMahon, Bill
+Wednesday. August 15, 20072:08 PM
+Cohn, Gary (EO 85830)
+Viniar. David
+RE: Trading VaR $165mm
+
+The volatilities and correlations among our assets are really driving the swings in var
+right now. Robert Berry sent out a note last night indicating that the sensitivity of our
+var models to correlations suggests that the var can swing between 140 and 160 without any
+changes in the comple~ion of our trading books - essentially, it is noise. The only
+solution is to reduce the size of the books, which is what we are working on with
+mortgages and credit trading. In credit trading, in Ram's book, we are long 1.1 dvOI by
+short 3.4 dvOl. He is reducing his short by 550 dv01 today (in monolines, brokers and IG
+index), and we are trying to figure out how much of his remaining short he needs against
+other commitments he has which ARE NOT showing up on his long side. Don and I are meeting
+with the mortgage guys today, and will share with you the plan in that book after its is
+finalized,
+-----Original Message----From: Cohn, Gary (EO 85830)
+Sent: Wednesday, August 15, 2007 1:43 PM
+To: Dinias, Michael; Viniar, David; Montag, Tom; Sherwood, Michael S; Broderick, Craig;
+Berry, Robert; Mullen, Donald; Sparks, Daniel L; McMahon, Bill; Petersen, Bruce; Wilson,
+Edward
+Subject: Re: Trading VaR $165mm
+There is no room for debate - we must get down now
+Original Message ----From: Dinias, Michael
+To; Viniar, David; Cohn, Gary; Montag, Tom; Sherwood, Michael S; Broderick, Craig; Berry,
+Robert; Mullen, Donald; Sparks, Daniel L; McMahon, Bill; Petersen, Bruce; Wilson, Edward
+(ED, 1NYP/042)
+Sent: Wed Aug 15 13:41:22 2007
+Subject: Trading VaR $165mm
+Trading VaR increased $16mm, from $149mm to $165mm, versus $150mm limit.
+Mortgage VaR increased $14mm, from $96mm to $llOmm. Mortgage risk increase was driven
+almost entirely from wider spreads/markdowns on ABS CDOs.
+Credit Trading VaR increased $2mm, from $79mm to $81mm.
+Credit Origination VaR increased $1mm, from $62mm to $63mm.
+Interest Rate Product VaR now stands at $144mm.
+
+Confidential Treatment Requested by Goldman Sachs
+
+GS MBS-E-009778573
+
+
