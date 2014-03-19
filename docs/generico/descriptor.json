@@ -1,0 +1,49 @@
+{
+  "title": "Goldman Sachs and the Financial Crisis",
+  "annotations": [
+    {
+      "location": {
+        "image": "335,648,370,53"
+      },
+      "title": "Producción de video profesional",
+      "page": 3,
+      "content": "Gracias a nuestros aliados en producción de video, ponemos a su disposición un estudio de grabación de audio y video profesional. <a href=\"http://www.edunext.co/servicios\">Ver más.</a>"
+    },
+    {
+      "location": {
+        "image": "280,648,325,53"
+      },
+      "title": "Operación de cursos masivos",
+      "page": 4,
+      "content": "Concéntrese en el contenido y la calidad del curso. Del rendimiento de la plataforma nos ocupamos nosotros. <a href=\"http://www.edunext.co/#servicios/mooc\">Ver más.</a>"
+    },
+    {
+      "location": {
+        "image": "151,600,298,120"
+      },
+      "title": "Ventajas",
+      "page": 5,
+      "content": "Para conocer más sobre la plataforma de edx visite <a href=\"http://code.edx.org\">code.edx.org</a>."
+    },
+    {
+      "location": {
+        "image": "464,300,650,90"
+      },
+      "title": "Contacto",
+      "page": 7
+    }
+  ],
+  "sections": [
+  ],
+  "resources": {
+    "page": {
+      "text": "/docs/generico/text/Generico_{page}.txt",
+      "image": "/docs/generico/images/{size}/Generico_{page}.gif"
+    },
+    "pdf": "/docs/generico/Generico.pdf",
+    "search": "/search_URL/Generico/search.json?q={query}"
+  },
+  "id": "descriptor",
+  "pages": 7,
+  "description": "Presentación de la empresa y el producto de eduNEXT. \r\n<p></p>\r\n Este documento es propiedad exclusiva de eduNEXT SAS."
+}
