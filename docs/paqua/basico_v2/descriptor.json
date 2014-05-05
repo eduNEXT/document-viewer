@@ -1,0 +1,18 @@
+{
+  "title": "Curso Básico en Hidroponía",
+  "annotations": [
+  ],
+  "sections": [
+  ],
+  "resources": {
+    "page": {
+      "text": "/docs/paqua/basico_v2/text/HidroponiaBasica_{page}.txt",
+      "image": "/docs/paqua/basico_v2/images/{size}/HidroponiaBasica_{page}.gif"
+    },
+    "pdf": "/docs/paqua/basico_v2/CursoCultivosHidroponicosAbril2014.pdf",
+    "search": "/search_URL/paqua/basico_v2/search.json?q={query}"
+  },
+  "id": "descriptor",
+  "pages": 50,
+  "description": "Presentación del curso básico en hidroponía en abril de 2014. \r\n<p></p>\r\n Este documento es propiedad exclusiva de Paqua."
+}

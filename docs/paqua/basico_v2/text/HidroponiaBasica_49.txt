@@ -1,0 +1,49 @@
+Variedad
+Acelga
+Apio
+Berenjena
+Brocoli
+Calabacin
+Cebolla (larga y cabezona)
+Cebollin
+Cilantro
+Col de bruselas ( repollitas)
+Col o acelga china
+Coliflor
+Espinaca
+Frijol
+Lechuga
+Pepino
+Perejil (liso y crespo)
+Pimentón
+Rábano
+Remolacha
+Repollo
+Tomate
+Zanahoria
+
+Ciclos de cosecha ( días)
+60
+120
+150-180
+90
+60
+90
+90
+90
+90
+60
+60
+60
+90
+45-60
+60-120
+90
+90-120
+60
+80
+120
+90-180
+90
+
+
